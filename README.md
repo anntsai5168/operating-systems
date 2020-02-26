@@ -1,6 +1,5 @@
 # operating-systems
 course works 
 
-lab 1 - linker
-
-lab 2 - scheduler
+1. lab 1 - linker
+2. lab 2 - scheduler
